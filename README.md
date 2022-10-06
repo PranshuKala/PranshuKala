@@ -14,6 +14,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PranshuKala&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=PranshuKala&icon=1&color=6)](https://visitcount.itsvg.in)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
