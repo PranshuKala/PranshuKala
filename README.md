@@ -9,7 +9,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranshu-kala-b2b188253) 
 <br>
 Cloud Profile - https://www.cloudskillsboost.google/public_profiles/7e1f4693-7d81-4f8a-afe3-b597d515dd4a <br>
-Devpost Profile - https://devpost.com/PranshuKala?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav&target="_blank" <br>
+Devpost Profile - https://devpost.com/PranshuKala?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav <br>
+![Devpost Profile](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) target = https://devpost.com/PranshuKala?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav <br>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
