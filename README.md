@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.pinimg.com/originals/8d/7e/96/8d7e9674a2150af56d27c2ff47e830a1.gif" width="720px"/>
+<img src="https://i.pinimg.com/originals/8d/7e/96/8d7e9674a2150af56d27c2ff47e830a1.gif" width="720px">
 
 # 💫 About Me:
 🔭 I’m currently in my second year of engineering.<br>👯 I’m looking to collaborate on any open source projects.<br>🤝 Looking for help on any topics.<br>🌱 I’m currently learning Data Structure and Algorithms.<br>💬 Ask me about my repos.<br><br>⚡ Fun fact - There are more stars in the universe than grains of <br>      sand on Earth.
