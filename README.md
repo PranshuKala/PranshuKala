@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="740px"/>
+<img src="https://i.pinimg.com/originals/8d/7e/96/8d7e9674a2150af56d27c2ff47e830a1.gif" width="740px"/>
 
 # 💫 About Me:
 🔭 I’m currently in my second year of engineering.<br>👯 I’m looking to collaborate on any open source projects.<br>🤝 Looking for help on any topics.<br>🌱 I’m currently learning Data Structure and Algorithms.<br>💬 Ask me about my repos.<br><br>⚡ Fun fact - There are more stars in the universe than grains of <br>      sand on Earth.
