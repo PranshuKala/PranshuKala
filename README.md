@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://i.gifer.com/Ry6p.mp4" width="750px" height="590px" >
+<img src="https://i.gifer.com/Ry6p.gif" width="750px" height="590px" >
 
 # 💫 About Me:
 🔭 I’m currently in my second year of engineering.<br>👯 I’m looking to collaborate on any open source projects.<br>🤝 🌱 I’m currently learning Data Structure and Algorithms.<br>💬 Ask me about my repos.<br><br>⚡ Fun fact - There are more stars in the universe than grains of <br>      sand on Earth.
